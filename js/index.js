@@ -294,7 +294,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "https://dl.dropbox.com/s/2k0mtrxc2dqurmh/jumping.png");
+  ifrm.setAttribute("src", "nistha.jpeg");
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';

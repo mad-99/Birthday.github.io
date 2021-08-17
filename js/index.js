@@ -287,14 +287,14 @@ function reveal() {
 
   var w, h;
   if (window.innerWidth >= 1000) {
-    w = 700;h =500;
+    w = 295;h = 185;
   } else
   {
-    w = 750;h = 549;
+    w = 255;h = 155;
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "nistha.jpeg");
+  ifrm.setAttribute("src", "nistha1.jpg");
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';

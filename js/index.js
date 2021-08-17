@@ -287,10 +287,10 @@ function reveal() {
 
   var w, h;
   if (window.innerWidth >= 1000) {
-    w = 500;h =299;
+    w = 700;h =500;
   } else
   {
-    w = 450;h = 249;
+    w = 750;h = 549;
   }
 
   var ifrm = document.createElement("iframe");
